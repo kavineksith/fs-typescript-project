@@ -20,7 +20,7 @@
     "@types/node": "^22.20.2",
     "concurrently": "^10.0.5",
     "eslint": "^10.10.0",
-    "typescript": "^7.0.2",
+    "typescript": "5.9.3",
     "typescript-eslint": "^8.70.0"
   },
   "dependencies": {
